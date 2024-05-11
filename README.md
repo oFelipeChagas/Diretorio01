@@ -1,1 +1,3 @@
 Hello world!
+
+This Repository is my first ever. It may be useful to showcase my personal development as a Technology Guy (as mom's call us, my partners and I). You may find some exercises that I practice at College classes, some chalenges that professors have given us, and some kind of bizarre tests, after all (I'am primarly an Artist - poetry and stuffs), thats the objective here, show my personal learning curve. It's not just machine that learn, I can also do it ;D
