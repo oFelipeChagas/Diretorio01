@@ -1,4 +1,4 @@
-# helo, that's my first python challange.
+# helo, that's my second python challange.
 # You may find all initial chalanges at bit.ly/PPZPythonExercicios
 
 #1. Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser 
